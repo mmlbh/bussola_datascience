@@ -1,4 +1,4 @@
-# Bussola do Cientista de Dados
+# Bússola do Cientista de Dados
 #### Ficha prática para avaliar um cientista de dados depois da entrevista de emprego
 
 A bússola do cientista de dados foi apresentada no [DATAJOB 2016](https://www.datajob.fr) pela empresa organizadora [QuantMetry](https://www.quantmetry.com).
